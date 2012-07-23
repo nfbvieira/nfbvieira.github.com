@@ -1,0 +1,3 @@
+baseurl: /blog
+permalink: pretty
+pygments: true
